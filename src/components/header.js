@@ -11,12 +11,12 @@ function Header() {
             <a href='index.html'>Aaron Witthohn</a>
           </h1>
           <div className='social-links mt-3 text-center'>
-            <a href='Github.com' className='github'>
-              <i className='bx bxl-github'>Git</i>
-            </a>            <a href='Twitter.com' className='twitter'>
-              <i className='bx bxl-twitter'>Tweet</i>
-            </a>            <a href='Linkedin.com' className='linkedin'>
-              <i className='bx bxl-linkedin'>Linked</i>
+            <a href='http://Github.com' className='github'>
+              <i className='bx bxl-github'>G</i>
+            </a>            <a href='http://Twitter.com' className='twitter'>
+              <i className='bx bxl-twitter'>T</i>
+            </a>            <a href='http://Linkedin.com' className='linkedin'>
+              <i className='bx bxl-linkedin'>L</i>
             </a>
           </div>
           <Navbar/>

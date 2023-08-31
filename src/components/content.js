@@ -3,7 +3,7 @@ import React from 'react';
 function MainContent() {
   return (
     <main>
-      <p>Welcome to my website!</p>
+      <p className='mt-3 text-center'>Welcome to my website!</p>
     </main>
   );
 }
